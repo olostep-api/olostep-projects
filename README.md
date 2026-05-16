@@ -64,10 +64,11 @@ Integrate Olostep with Claude Code Channels for real-time web search, scraping, 
 - **Guide**: [How to Use Olostep with Claude Code Channels](https://www.olostep.com/blog/use-olostep-with-claude-code-channels)
 - **Stack**: Claude Code, Olostep MCP Server, Discord
 
-## Use Cases
+## Case Studies
 
-- [AI Platforms](https://www.olostep.com/use-cases/ai-platforms) - Power AI platforms with real-time web context for agents and workflows
-- [Sales Lead Enrichment](https://www.olostep.com/use-cases/sales-lead-enrichment) - Turn prospect websites into structured company and contact signals
-- [Deep Research](https://www.olostep.com/use-cases/deep-research) - Add web data to real-time agentic loops for deep research and competitive analysis
-- [Competitive Intelligence](https://www.olostep.com/use-cases/competitive-intelligence) - Turn competitor site data into structured competitive signals
-- [SEO Teams](https://www.olostep.com/use-cases/seo-teams) - Monitor search rankings, SERP features, and competitor visibility
+- [Olostep x Podqi](https://www.olostep.com/blog/how-podqi-automates-brand-protection-with-olostep) - Brand protection: IP infringement detection and ad monitoring at scale
+- [Olostep x Openmart](https://www.olostep.com/blog/how-openmart-powers-ai-sales-intelligence-with-olostep) - AI sales intelligence: structured local business data from Google Maps
+- [Olostep x Gumloop](https://www.olostep.com/blog/how-gumloop-uses-olostep-as-its-default-web-node) - Visual automation platform using Olostep as its default web node
+- [Olostep x Plots](https://www.olostep.com/blog/how-plots-events-automates-events-discovery-with-olostep) - Events discovery and analytics automation
+- [Olostep x Merchkit](https://www.olostep.com/blog/how-merchkit-automates-catalog-enrichment-with-olostep) - Catalog enrichment for e-commerce
+
