@@ -64,3 +64,16 @@ Integrate Olostep with Claude Code Channels for real-time web search, scraping, 
 - **Guide**: [How to Use Olostep with Claude Code Channels](https://www.olostep.com/blog/use-olostep-with-claude-code-channels)
 - **Stack**: Claude Code, Olostep MCP Server, Discord
 
+## n8n Workflows
+
+- [Google Maps Lead Generation](https://n8n.io/workflows/11086-scrape-business-leads-from-google-maps-and-extract-decision-maker-info-with-olostep/) - Scrape business leads and extract decision-maker info
+- [Amazon Product Data to Sheets](https://n8n.io/workflows/11158-extract-amazon-product-data-to-sheets-with-olostep-api/) - Extract Amazon product data to Google Sheets
+- [Zillow Property Listings](https://n8n.io/workflows/11130-scrape-property-listings-from-zillow-with-olostep-api-and-store-in-data-tables/) - Scrape property listings from Zillow
+- [Investment Research Email](https://n8n.io/workflows/15387-send-a-daily-investment-research-email-with-olostep-openai-and-gmail/) - Send daily investment research emails
+- [Documentation Site to Knowledge Base](https://n8n.io/workflows/13436-crawl-documentation-sites-and-build-an-ai-knowledge-base-with-olostep/) - Crawl docs and build an AI knowledge base
+- [User Complaint Mining](https://n8n.io/workflows/13435-mine-user-complaints-and-generate-insight-reports-with-olostep-gemini-and-google-docs/) - Mine complaints and generate insight reports
+- [Skool Community Scraper](https://n8n.io/workflows/13437-scrape-skool-community-data-using-the-olostep-api-and-google-sheets/) - Scrape Skool community data to Google Sheets
+- [Content Authority Roadmaps](https://n8n.io/workflows/15474-generate-content-authority-roadmaps-using-olostep-gemini-25-flash-and-google-drive/) - Generate content authority roadmaps
+- [Buyer Persona Pain Points](https://n8n.io/workflows/15471-generate-a-buyer-persona-pain-point-report-using-olostep-gemini-and-google-docs/) - Generate buyer persona pain point reports
+- [Article to Social Content](https://n8n.io/workflows/15458-turn-any-article-into-social-content-with-gemini-olostep-and-google-docs/) - Turn articles into social media content
+
